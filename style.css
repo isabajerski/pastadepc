@@ -1,3 +1,10 @@
 body{
     background-color: hwb(212 49% 28%);
 }
+p {
+    color: blueviolet;
+}
+.sobrenome {
+    font-style: italic;
+    color: hotpink;
+}
