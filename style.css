@@ -1,5 +1,6 @@
 body{
     background-color: hwb(212 49% 28%);
+    text-align: center;
 }
 p {
     color: blueviolet;
@@ -8,3 +9,4 @@ p {
     font-style: italic;
     color: hotpink;
 }
+
