@@ -1,8 +1,10 @@
 body{
     background-color: hwb(212 49% 28%);
     text-align: center;
+    margin:0%
 }
-header { 
+header {
+    margin-top: 5px;
     border-bottom: solid 2px rgb(red, green, blue);
     padding: 20px;
     font-size: 20px;
