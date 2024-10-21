@@ -2,11 +2,10 @@ body{
     background-color: hwb(212 49% 28%);
     text-align: center;
     margin:0%
-    font-family: "Chakra Petch", sans-serif;
 }
 header {
     margin-top: 5px;
-    border-bottom: solid 2px rgb(red, green, blue);
+    border-bottom: solid 2px rgb(rgb(153, 121, 121), green, blue);
     padding: 20px;
     font-size: 20px;
     text-decoration: none;
@@ -18,7 +17,7 @@ p {
 }
 .sobrenome {
     font-style: italic;
-    color: hotpink;
+    color: rgb(150, 0, 75);
 }
 .img1 {
     width: 40%;
